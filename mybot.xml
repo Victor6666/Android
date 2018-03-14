@@ -44,6 +44,7 @@
             <item value="Я не спорю"/>
             <item value="А почему бы и нет"/>
             <item value="У каждого своё мнение"/>
+        </output>
     </input>
 
     <input pattern="* помолчи | не болтай *">
@@ -53,6 +54,7 @@
             <item value="Как скажете"/>
             <item value="Ну вот приехали"/>
             <item value="Фу как грубо"/>
+        </output>
     </input>
 
     <input pattern="* спасибо *">
