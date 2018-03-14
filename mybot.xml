@@ -37,7 +37,7 @@
         <output value="А вы как думали, вот такая я "/>
     </input>
     
-    <input pattern="* спорить будеш | спориш *">
+    <input pattern="* спорить будеш | споришь *">
         <output>
             <item value="Буду спорить"/>
             <item value="Я люблю спорить"/>
@@ -47,7 +47,7 @@
         </output>
     </input>
 
-    <input pattern="* помолчи | не болтай *">
+    <input pattern="* не кричи | а ну цыц *">
         <output>
             <item value="Буду болтать"/>
             <item value="Не буду молчать"/>
