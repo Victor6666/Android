@@ -29,8 +29,8 @@
         </output>
     </input>
 
-    <input pattern="* молодец *">
-        <output value="Спасибо"/>
+    <input pattern="* молодец | умница *">
+        <output value="Спасибо. Хвалите меня почаще, мне это нравится"/>
     </input>
 
     <input pattern="* спасибо *">
